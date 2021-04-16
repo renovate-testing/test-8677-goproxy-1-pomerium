@@ -1,9 +1,3 @@
 {
-  "enabledManagers": ["gomod"],
-  "packageRules": [
-    {
-      "excludePackageNames": ["google.golang.org/genproto"],
-      "enabled": false
-    }
-  ]
+  "enabledManagers": ["gomod"]
 }
